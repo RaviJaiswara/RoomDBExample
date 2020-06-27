@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhableAssign</string>
+
+    <string name="name">Please enter name</string>
+    <string name="email">Please enter email</string>
+</resources>
